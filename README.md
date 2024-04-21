@@ -1,3 +1,5 @@
-# papering
+# WallpaperDefects
 
-데이터 출처 : https://dacon.io/competitions/official/236082/overview/description
+Deep learning model to classify types of wallpaper defects
+
+Data : https://dacon.io/competitions/official/236082/overview/description
